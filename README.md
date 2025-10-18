@@ -67,7 +67,7 @@ The goal is to uncover insights into sales trends, customer behavior, and produc
 
 
 
-![Coffee Sales Dashboard](Images/Dashboard_Preview.png)
+![Coffee Sales Dashboard](Power_BI_File/Main_Dashboard.png)
 
 ---
 
