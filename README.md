@@ -65,7 +65,6 @@ The goal is to uncover insights into sales trends, customer behavior, and produc
 
 ## 📸 Dashboard Preview  
 
-> *(Upload your dashboard image inside an “Images” folder and update the link below.)*
 
 
 ![Coffee Sales Dashboard](Images/Dashboard_Preview.png)
