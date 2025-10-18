@@ -12,7 +12,7 @@ The goal is to uncover insights into sales trends, customer behavior, and produc
 - **MySQL** → Data cleaning, transformation, and KPI calculation  
 - **Power BI** → Dashboard design and interactive data visualization  
 - **Excel / CSV** → Data storage and preprocessing  
-- **SQL Techniques Used** → Joins, Aggregations, Subqueries, CTEs, Window Functions  
+- **SQL Techniques Used** → Aggregations, Subqueries, Window Functions,Having,Group By  
 
 ---
 
@@ -89,14 +89,8 @@ The goal is to uncover insights into sales trends, customer behavior, and produc
 - Barista Espresso,Brewed Chai tea,Hot chocolate,Gourmet brewed coffee are top-selling products  
 - Coffee,Tea are top product category
 - Peak sales occur between **7 AM and 10 AM**
-- Low sales occurs **6 AM and 8 PM** 
-
----
-
-## 📸 Dashboard Preview
-  
-
-![Coffee Sales Dashboard](Images/Dashboard_Preview.png)
+- Low sales occurs **6 AM and 8 PM**
+- Peak sales ocuurs **MONDAY** 
 
 ---
 
@@ -113,7 +107,7 @@ The goal is to uncover insights into sales trends, customer behavior, and produc
 1. Clone or download this repository  
 2. Open `.sql` files in **MySQL** to view queries and logic  
 3. Open `.pbix` file in **Power BI** to explore the dashboard  
-4. Use slicers (Month, Store, Category) to dynamically analyze performance  
+4. Use slicers Month to dynamically analyze performance  
 
 ---
 
