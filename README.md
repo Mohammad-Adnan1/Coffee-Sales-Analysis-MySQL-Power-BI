@@ -67,7 +67,7 @@ The goal is to uncover insights into sales trends, customer behavior, and produc
 
 
 
-![Coffee Sales Dashboard](Power_BI_File/Main_Dashboard.png)
+![Coffee Sales Dashboard](Power_BI_File/Full_Image.png)
 
 ---
 
@@ -84,17 +84,17 @@ The goal is to uncover insights into sales trends, customer behavior, and produc
 
 ---
 
-## 💡 Key Insights *(You can replace with your actual results)*
-- Weekends show higher average sales than weekdays  
-- Latte and Cappuccino are top-selling products  
-- Downtown store shows consistent month-over-month growth  
-- Peak sales occur between **9 AM and 12 PM**  
+## 💡 Key Insights
+- Weekdays show higher average sales than weekends  
+- Barista Espresso,Brewed Chai tea,Hot chocolate,Gourmet brewed coffee are top-selling products  
+- Coffee,Tea are top product category
+- Peak sales occur between **7 AM and 10 AM**
+- Low sales occurs **6 AM and 8 PM** 
 
 ---
 
 ## 📸 Dashboard Preview
-
-> *(Upload your dashboard screenshot inside “Images” folder and update the path below)*  
+  
 
 ![Coffee Sales Dashboard](Images/Dashboard_Preview.png)
 
@@ -105,7 +105,7 @@ The goal is to uncover insights into sales trends, customer behavior, and produc
 *Data Analyst | SQL | Power BI | Excel | Python*  
 
 📧 24khanadnan93@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-link)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohammad-adnan-59062a365/)  
 
 ---
 
